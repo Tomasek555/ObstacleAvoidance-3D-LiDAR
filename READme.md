@@ -75,3 +75,5 @@ The thesis was evaluated as a high-quality work by the examination board and sho
 ## Thesis
 
 This project is documented in my bachelor thesis **“[Obstacle Avoidance Using 3D LiDAR]([url](https://www.theseus.fi/handle/10024/881192))”**, which describes the theory, algorithm design, ROS 2 architecture and experimental results in more detail.
+
+Thesis is available here: https://www.theseus.fi/handle/10024/881192
